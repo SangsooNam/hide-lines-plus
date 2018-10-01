@@ -15,6 +15,6 @@ Hide or fold lines matched on regex patterns. See examples below.
 ## Settings
 
 * **Patterns**: Comma separated list of regex patterns to hide. Default value is `^>`
-* **Use Custom Marker**: Use `Show >`` marker insetad of the default one
+* **Use Custom Marker**: Use `Show >` marker insetad of the default one
 
 _This plugin is inspired by [hide-lines](https://atom.io/packages/hide-lines)._
