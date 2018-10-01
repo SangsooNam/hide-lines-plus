@@ -1,0 +1,18 @@
+{
+  "name": "hide-lines-plus",
+  "main": "./lib/hide-lines-plus",
+  "version": "0.0.0",
+  "description": "Hide or fold lines matched on regex patterns",
+  "keywords": [
+    "fold",
+    "hide",
+    "lines",
+    "quiz"
+  ],
+  "repository": "https://github.com/sangsoonam/hide-lines-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
