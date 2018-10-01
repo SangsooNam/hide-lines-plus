@@ -1,7 +1,7 @@
 {
   "name": "hide-lines-plus",
   "main": "./lib/hide-lines-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hide or fold lines matched on regex patterns",
   "keywords": [
     "fold",
